@@ -1,6 +1,6 @@
 # Static site template
 
-This template is based on [Hugo Second Brain Theme](https://github.com/wowchemy/hugo-second-brain-theme).
+This template is based on [Hugo Portfolio Theme](https://github.com/wowchemy/starter-hugo-portfolio-theme).
 
 It is customized for local authoring using Code and DevContainers.
 
