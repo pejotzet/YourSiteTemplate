@@ -27,4 +27,6 @@ content:
 
 design:
   columns: '1'
+
+active: false
 ---

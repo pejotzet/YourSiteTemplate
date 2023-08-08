@@ -50,4 +50,6 @@ item:
 
 design:
   columns: '1'
+
+active: false
 ---

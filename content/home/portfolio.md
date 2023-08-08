@@ -28,15 +28,17 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+    - name: Kryptografia
+      tag: Kryptografia
+    - name: Kwanty
+      tag: Kwanty
+    - name: Linux
+      tag: Linux
+    - name: ESP32
+      tag: ESP32
 
 design:
-  columns: '1'
+  columns: '2'
   view: masonry
   flip_alt_rows: true
   background: {}
